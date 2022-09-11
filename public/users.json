@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1, 
+        "gender": "male",
+        "name":"Leanne Graham",
+        "contact": "1-770-736-8031 ", 
+        "address":"Gwenborough", 
+        "photoUrl": "https://via.placeholder.com/600/ca50ac"
+    },
+    {
+        "id": 2, 
+        "gender": "male",
+        "name":"Clementina DuBuque",
+        "contact": "1-770-736-8031 ", 
+        "address":"Gwenborough", 
+        "photoUrl": "https://via.placeholder.com/600/ca50ac"
+    },
+    {
+        "id": 3, 
+        "gender": "male",
+        "name":"Glenna Reichert",
+        "contact": "1-770-736-8031 ", 
+        "address":"Gwenborough", 
+        "photoUrl": "https://via.placeholder.com/600/ca50ac"
+    },
+    {
+        "id": 4, 
+        "gender": "male",
+        "name":"Nicholas Runolfsdottir V",
+        "contact": "1-770-736-8031 ", 
+        "address":"Gwenborough", 
+        "photoUrl": "https://via.placeholder.com/600/ca50ac"
+    },
+    {
+        "id": 5, 
+        "gender": "male",
+        "name":"Kurtis Weissnat",
+        "contact": "1-770-736-8031 ", 
+        "address":"Gwenborough", 
+        "photoUrl": "https://via.placeholder.com/600/ca50ac"
+    },
+    {
+        "id": 6, 
+        "gender": "male",
+        "name":"Mrs. Dennis Schulist",
+        "contact": "1-770-736-8031 ", 
+        "address":"Gwenborough", 
+        "photoUrl": "https://via.placeholder.com/600/ca50ac"
+    },
+    {
+        "id": 7, 
+        "gender": "male",
+        "name":"Chelsey Dietrich",
+        "contact": "1-770-736-8031 ", 
+        "address":"Gwenborough", 
+        "photoUrl": "https://via.placeholder.com/600/ca50ac"
+    },
+    {
+        "id": 8, 
+        "gender": "male",
+        "name":"Patricia Lebsack",
+        "contact": "1-770-736-8031 ", 
+        "address":"Gwenborough", 
+        "photoUrl": "https://via.placeholder.com/600/ca50ac"
+    },
+    {
+        "id": 9, 
+        "gender": "male",
+        "name":"Clementine Bauch",
+        "contact": "1-770-736-8031 ", 
+        "address":"Gwenborough", 
+        "photoUrl": "https://via.placeholder.com/600/ca50ac"
+    },
+    {
+        "id": 10, 
+        "gender": "Female",
+        "name":"Ervin Howell",
+        "contact": "010-692-6593 ", 
+        "address":"Wisokyburgh", 
+        "photoUrl": "https://via.placeholder.com/600/ca50ac"
+    }
+]
